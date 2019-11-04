@@ -1,0 +1,16 @@
+dsnapcon260.bpl
+dsnap260.bpl
+IndyIPCommon260.bpl
+IndySystem260.bpl
+CustomIPTransport260.bpl
+vcldb260.bpl
+dbexpress260.bpl
+IndyCore260.bpl
+IndyProtocols260.bpl
+IndyIPClient260.bpl
+DbxClientDriver260.bpl
+DataSnapCommon260.bpl
+dbrtl260.bpl
+DbxCommonDriver260.bpl
+vcl260.bpl
+rtl260.bpl
